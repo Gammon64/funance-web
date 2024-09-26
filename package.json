@@ -1,7 +1,8 @@
 {
   "name": "funance-web",
   "version": "0.1.0",
-  "private": true,
+  "author": "Gammon64",
+  "license": "GPL-3.0-only",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
